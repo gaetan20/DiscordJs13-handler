@@ -7,13 +7,8 @@
 ## Fonctionnalities
 
 * Events and commands in differents files
-![img](image/README/1642448343843.png)
-<br>
 * New useButton, useSlashCommand and useDropdown events
-![img](image/README/1642448373674.png)
-<br>
 * Permissions configurable in each command file with a simple array
-![](image/README/1642448490399.png)
 
 ## How to use ?
 
